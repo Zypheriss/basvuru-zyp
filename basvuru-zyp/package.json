@@ -1,0 +1,16 @@
+{
+  "name": "basvuru-zyp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zypheris",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "croxydb": "^0.0.26",
+    "ms": "^2.1.3"
+  }
+}
